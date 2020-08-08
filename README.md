@@ -5,7 +5,8 @@ This is a web app that can output average inputted by user.
 
 # バージョン一覧(Version)
 ・2020/1/22：リリース開始。(Release start.)<br>
-・2020/1/23：入力可能な桁数の制限(Digit limit.)
+・2020/1/23：入力可能な桁数の制限(Digit limit.)<br>
+・2020/8/8:後継となる"平均を求めるアプリjs版(リポジトリ：Average2）の追加(Update this file.)
 
 # エラー一覧(Error)
 このアプリは以下のような動作に対応できません。(This app cannot support follwing motion.)<br>
